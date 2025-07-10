@@ -21,3 +21,7 @@ With your index finger and thumb, move them closer together to decrease brightne
 
 ### Scrolling:
 Using your index finger, by pointing it up, it would scroll the current active screen continuously until the finger is put away. By pointing it down, it would scroll down until the finger is put away.
+
+### Demo Video:
+https://github.com/user-attachments/assets/0f6d5965-925e-4a8a-901c-c3db7f4095b6
+
